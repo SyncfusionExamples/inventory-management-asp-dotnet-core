@@ -1,10 +1,10 @@
 # Inventory Management ASP.NET Core
-This repository contains the inventory management application, built with ASP.NET Core 3.0 and Entity Framework 3.0 to illustrate performing CRUD actions. 
+This repository contains the inventory management application, built with ASP.NET Core 3.1 and Entity Framework 3.1 to illustrate performing CRUD actions. 
 
 ## Prerequisites
 
-* Visual Studio 2019 16.3.0 Preview 2.0
-* ASP.NET Core 3.0 Preview 8
+* Visual Studio 2019 16.4.0
+* ASP.NET Core 3.1
 * SQL Server 2017 
 
 
