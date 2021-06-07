@@ -16,4 +16,4 @@ This repository contains the inventory management application, built with ASP.NE
 * Change the connection string in the appsettings.json file that points to your SQL Server
 * Run the project.
 
-Building this project with team city with multi branches
+Building this project with team city with multi branches from develop, feature as well
