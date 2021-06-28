@@ -201,8 +201,8 @@ Task("Pack-Poller")
 });
 
 Task("Pack")
-    .IsDependentOn("Pack-API")
-    .IsDependentOn("Pack-Angular-App")
+   // .IsDependentOn("Pack-API")
+  //  .IsDependentOn("Pack-Angular-App")
     .IsDependentOn("Pack-Poller");
 
 Task("OctoPush")
